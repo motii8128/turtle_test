@@ -2,9 +2,9 @@
 test program to move turtlesim by Rust(safe_drive)
 
 ## environment
-|OS|ubuntu22.04|
-|----|----|
-|ros2_version|humble|
+|OS|ROS2|safe_drive|
+|----|----|----|
+|ubuntu22.04|humble|0.2|
 
 ## How to use
 ### Make workspace
