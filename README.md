@@ -7,4 +7,5 @@ test program to move turtlesim by Rust(safe_drive)
 |ubuntu22.04|humble|0.2|
 
 ## How to use
-Go this [repository](https://github.com/motii8128/launch_example).
+[this](https://github.com/motii8128/launch_example) is launch program.
+follow this.
