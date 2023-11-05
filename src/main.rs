@@ -1,6 +1,8 @@
 use safe_drive::{context::Context, error::DynError, logger::Logger, pr_info, msg::common_interfaces::geometry_msgs};
 use std::time::Duration;
 
+// てすと
+
 fn main()->Result<(), DynError>
 {
     let context = Context::new()?;
